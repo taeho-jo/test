@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className='App'>
-      Diby 1.0
+      Diby 1.0.0
     </div>
   );
 }
